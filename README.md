@@ -80,8 +80,12 @@
 
 ### ⚡ Fun Fact
 
-* 🏆 I love playing Kabaddi and won **First Prize** in a school-level Kabaddi competition.
-* ☕ I enjoy learning something new every day and believe that consistency is the key to growth.
+### ⚡ Fun Facts
+
+* 🏆 I love playing **Kabaddi** and won **First Prize** in a school-level competition.
+* 💃 Dancing is one of my favorite ways to express creativity and recharge.
+* 🐾 I'm an animal lover and enjoy spending time with furry friends whenever I can.
+* ☕ I love learning something new every day and believe that **consistency is the key to growth**.
 
 ### 📫 Let's Connect
 
