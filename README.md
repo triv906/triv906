@@ -78,8 +78,6 @@
 * Problem Solving
 * Web Technologies
 
-### ⚡ Fun Fact
-
 ### ⚡ Fun Facts
 
 * 🏆 I love playing **Kabaddi** and won **First Prize** in a school-level competition.
