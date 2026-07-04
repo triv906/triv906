@@ -1,6 +1,6 @@
 ## Hi there, I'm Sindhuja Trivedi 👋
 
-### 💫 About Me
+### 🌸 About Me
 
 * 🎓 Computer Science student passionate about building scalable web applications.
 * 💻 Aspiring Software Engineer with a strong interest in Full-Stack Development.
